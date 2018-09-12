@@ -1,4 +1,4 @@
-# classical-paper-in-deep-learning-paper
+# classical-paper-in-deep-learning/深度学习经典paper
 
 CV
 
